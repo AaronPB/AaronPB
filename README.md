@@ -31,6 +31,10 @@ I love using technology and building software to enhance research, and currently
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![photopea](https://img.shields.io/badge/photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)
+![obsstudio](https://img.shields.io/badge/obsstudio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+![nextcloud](https://img.shields.io/badge/nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![googledrive](https://img.shields.io/badge/google_drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ## 📊 GitHub Stats
 
