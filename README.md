@@ -17,24 +17,27 @@ I love using technology and building software to enhance research, and currently
 ![latex](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+![ros](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![githubactions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![materialformkdocs](https://img.shields.io/badge/material_for_mkdocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white)
 
-![ros](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![octave](https://img.shields.io/badge/octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
 ![dassaultsystemes](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![autocad](https://img.shields.io/badge/autocad-E51050?style=for-the-badge&logo=autocad&logoColor=white)
+![obsstudio](https://img.shields.io/badge/obs_studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 
 ![overleaf](https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![photopea](https://img.shields.io/badge/photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)
-![obsstudio](https://img.shields.io/badge/obsstudio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![nextcloud](https://img.shields.io/badge/nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![googledrive](https://img.shields.io/badge/google_drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![spigotmc](https://img.shields.io/badge/spigotmc-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)
 
 ## 📊 GitHub Stats
 
