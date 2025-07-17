@@ -21,6 +21,7 @@ I love using technology and building software to enhance research, and currently
 ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![githubactions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![materialformkdocs](https://img.shields.io/badge/material_for_mkdocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white)
+![apachemaven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ![octave](https://img.shields.io/badge/octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
 ![dassaultsystemes](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
