@@ -4,7 +4,7 @@ I am an Industrial Engineer based in Spain 🇪🇸
 
 I love using technology and building software to enhance research, and currently I am pursuing a PhD in Informatics!
 
-[![PersonalSite](https://img.shields.io/badge/personal_site-E53734?style=for-the-badge&logo=streamlit&logoColor=white)](https://aaronpb.github.io/)
+[![PersonalSite](https://img.shields.io/badge/personal_site-E71D29?style=for-the-badge&logo=undertale&logoColor=white)](https://aaronpb.github.io/)
 [![ORCID](https://img.shields.io/badge/my_orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0136-5004)
 
 ## 🖥️ Tech Stack & Tools
